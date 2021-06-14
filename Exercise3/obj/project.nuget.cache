@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "KuvvL57W0jKBGzsqo0BYI8Gy36l0nLdCMX4AQBVMpDahv8a0OadgK//Gm57Ong5aIoZRbFuEe+c8nCkhQ6U8kQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miumi\\source\\repos\\Lab3\\Exercise3\\Exercise3.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\miumi\\source\\repos\\Lab3\\Exercise3\\obj\\project.nuget.cache : Found invalid data while decoding."
+    }
+  ]
+}
